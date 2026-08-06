@@ -1,33 +1,71 @@
-# Hi, I'm Hoang Duy 👋
+# Hi there, I'm Hoang Duy 👋
 
-🎓 Data Science & AI Student
+## 👨‍💻 About Me
+I'm a Data Science student passionate about Artificial Intelligence, Machine Learning, and Large Language Models (LLMs). I enjoy building intelligent applications, solving real-world problems with data, and continuously learning new technologies.
 
-💻 Interested in:
-- Artificial Intelligence
-- Machine Learning
-- Large Language Models (LLMs)
-- Backend Development
-- Data Analysis
+- 🎓 Data Science Student
+- 🤖 Aspiring AI Engineer
+- 🌱 Currently learning Deep Learning, AI Agents, RAG, and MLOps
+- 💡 Interested in LLMs, Computer Vision, NLP, and Backend Development
 
-🛠 Tech Stack
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
 - Python
-- SQL (MySQL)
+- SQL
+- C++
+
+### AI & Data Science
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+### Backend
 - FastAPI
+- REST API
+
+### Database
+- MySQL
+- SQL Server
+
+### Tools
+- Git & GitHub
 - Docker
 - Linux
-- Git & GitHub
+- VS Code
 
-📚 Currently Learning
-- Deep Learning
+---
+
+## 🚀 Current Focus
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 - AI Agents
-- RAG
-- LangChain
-- Vector Databases
+- Deep Learning
+- Machine Learning
+- Backend Development
 - MLOps
 
-🎯 Career Goal
-Become an AI Engineer and build intelligent AI applications that solve real-world problems.
+---
 
-📫 Contact
-- Email: your_email@example.com
-- LinkedIn: your_linkedin
+## 📌 Featured Projects
+
+- 🤖 AI Assistant
+- 📊 Data Analysis Projects
+- 🧠 Machine Learning Models
+- 🌐 FastAPI Backend Applications
+
+---
+
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/dmins06
+- Email: dminondastr06@gmail.com
+
+---
+
+> "Keep learning. Keep building. Keep improving."
