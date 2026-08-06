@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Hoang Duy 👋
 
-<!--
-**dmins06/dmins06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science & AI Student
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Artificial Intelligence
+- Machine Learning
+- Large Language Models (LLMs)
+- Backend Development
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+- Python
+- SQL (MySQL)
+- FastAPI
+- Docker
+- Linux
+- Git & GitHub
+
+📚 Currently Learning
+- Deep Learning
+- AI Agents
+- RAG
+- LangChain
+- Vector Databases
+- MLOps
+
+🎯 Career Goal
+Become an AI Engineer and build intelligent AI applications that solve real-world problems.
+
+📫 Contact
+- Email: your_email@example.com
+- LinkedIn: your_linkedin
