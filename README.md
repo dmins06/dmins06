@@ -1,4 +1,4 @@
-# Hi there, I'm Hoang Duy 👋
+# Hi there, I'm Le Hoang Duy Minh 
 
 ## 👨‍💻 About Me
 I'm a Data Science student passionate about Artificial Intelligence, Machine Learning, and Large Language Models (LLMs). I enjoy building intelligent applications, solving real-world problems with data, and continuously learning new technologies.
