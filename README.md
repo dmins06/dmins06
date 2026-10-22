@@ -1,71 +1,56 @@
-# Hi there, I'm Le Hoang Duy Minh 
+# Duy Minh / Diminn
 
-## 👨‍💻 About Me
-I'm a Data Science student passionate about Artificial Intelligence, Machine Learning, and Large Language Models (LLMs). I enjoy building intelligent applications, solving real-world problems with data, and continuously learning new technologies.
+**Data Science & AI Student | Aspiring AI Engineer**
 
-- 🎓 Data Science Student
-- 🤖 Aspiring AI Engineer
-- 🌱 Currently learning Deep Learning, AI Agents, RAG, and MLOps
-- 💡 Interested in LLMs, Computer Vision, NLP, and Backend Development
+Third-year Data Science and Artificial Intelligence student at the University of Transport Ho Chi Minh City (UTH), Vietnam. Interested in building practical AI applications, machine learning systems, and data-driven solutions.
 
----
+## About Me
 
-## 🛠️ Tech Stack
+- Studying Data Science and Artificial Intelligence at UTH.
+- Interested in AI Engineering, Machine Learning, and Data Science.
+- Exploring time-series forecasting, data analysis, and model evaluation.
+- Building projects that combine data, AI, and software engineering.
+- Continuously developing skills in model deployment and backend development.
 
-### Programming Languages
-- Python
-- SQL
-- C++
+## Featured Projects
 
-### AI & Data Science
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
+### Nexamin
+An educational platform designed to help students organize learning activities, manage academic plans, and practice course materials.
 
-### Backend
-- FastAPI
-- REST API
+- Focus: Full-stack development and educational technology
+- Technologies: React, TypeScript
+- Website: [nexamin.id.vn](https://nexamin.id.vn)
+- Repository: [dmins06/nexamin](https://github.com/dmins06/nexamin)
 
-### Database
-- MySQL
-- SQL Server
+### PetroTwin
+An ongoing Data Science project focused on forecasting petroleum prices in Vietnam using historical prices and related economic indicators.
 
-### Tools
-- Git & GitHub
-- Docker
-- Linux
-- VS Code
+- Focus: Time-series forecasting and model evaluation
+- Data sources: Domestic fuel prices, Brent crude oil prices, and USD/VND exchange rates
+- Objective: Evaluate forecasting performance and compare predictions with officially published prices
+- Repository: [dmins06/PetroTwin-](https://github.com/dmins06/PetroTwin-)
 
----
+## Technical Skills
 
-## 🚀 Current Focus
+**Programming:** Python, SQL
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Deep Learning
-- Machine Learning
-- Backend Development
-- MLOps
+**Data Science:** Pandas, NumPy, data analysis, time-series forecasting
 
----
+**Machine Learning:** Scikit-learn, model evaluation
 
-## 📌 Featured Projects
+**Web Development:** React, TypeScript, FastAPI, MySQL
 
-- 🤖 AI Assistant
-- 📊 Data Analysis Projects
-- 🧠 Machine Learning Models
-- 🌐 FastAPI Backend Applications
+**Tools:** Git, GitHub, Docker
 
----
+## Current Learning Goals
 
+- Strengthening machine learning and deep learning fundamentals.
+- Developing reliable data processing and evaluation pipelines.
+- Learning to deploy AI models and production-ready APIs.
+- Building end-to-end projects with measurable results.
 
-## 📫 Connect with Me
+## Contact
 
-- GitHub: https://github.com/dmins06
-- Email: dminondastr06@gmail.com
+GitHub: [@dmins06](https://github.com/dmins06)
 
----
-
-> "Keep learning. Keep building. Keep improving."
+Interested in AI, Data Science, and software engineering projects.
