@@ -1,56 +1,70 @@
-# Duy Minh / Diminn
+DIMINN. | Minh
 
-**Data Science & AI Student | Aspiring AI Engineer**
+Data Science · Data Engineering · Artificial Intelligence
 
-Third-year Data Science and Artificial Intelligence student at the University of Transport Ho Chi Minh City (UTH), Vietnam. Interested in building practical AI applications, machine learning systems, and data-driven solutions.
+<p align="center">
+  <a href="https://my-portfolio-six-blond-38.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-black?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/dmins06">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-black?style=for-the-badge&logo=github" />
+  </a>
+</p>---
 
-## About Me
+About Me
 
-- Studying Data Science and Artificial Intelligence at UTH.
-- Interested in AI Engineering, Machine Learning, and Data Science.
-- Exploring time-series forecasting, data analysis, and model evaluation.
-- Building projects that combine data, AI, and software engineering.
-- Continuously developing skills in model deployment and backend development.
+Hi, I'm Minh — a Data Science and AI student at the University of Transport Ho Chi Minh City (UTH).
 
-## Featured Projects
+I'm interested in transforming raw data into meaningful insights and building reliable, scalable data systems.
 
-### Nexamin
-An educational platform designed to help students organize learning activities, manage academic plans, and practice course materials.
+My focus areas:
 
-- Focus: Full-stack development and educational technology
-- Technologies: React, TypeScript
-- Website: [nexamin.id.vn](https://nexamin.id.vn)
-- Repository: [dmins06/nexamin](https://github.com/dmins06/nexamin)
+- Data Science & Machine Learning
+- Data Engineering & Data Pipelines
+- Time Series Analysis & Forecasting
+- Artificial Intelligence
 
-### PetroTwin
-An ongoing Data Science project focused on forecasting petroleum prices in Vietnam using historical prices and related economic indicators.
+Tech Stack
 
-- Focus: Time-series forecasting and model evaluation
-- Data sources: Domestic fuel prices, Brent crude oil prices, and USD/VND exchange rates
-- Objective: Evaluate forecasting performance and compare predictions with officially published prices
-- Repository: [dmins06/PetroTwin-](https://github.com/dmins06/PetroTwin-)
+Programming & Data Science
 
-## Technical Skills
+Python · SQL · Pandas · NumPy · Scikit-learn
 
-**Programming:** Python, SQL
+Data Engineering
 
-**Data Science:** Pandas, NumPy, data analysis, time-series forecasting
+MySQL · ETL/ELT · Data Pipelines · Data Quality · Docker · Linux
 
-**Machine Learning:** Scikit-learn, model evaluation
+Machine Learning & AI
 
-**Web Development:** React, TypeScript, FastAPI, MySQL
+Machine Learning · XGBoost · SARIMAX · NLP · Deep Learning
 
-**Tools:** Git, GitHub, Docker
+Development Tools
 
-## Current Learning Goals
+Git · GitHub · FastAPI · React · TypeScript
 
-- Strengthening machine learning and deep learning fundamentals.
-- Developing reliable data processing and evaluation pipelines.
-- Learning to deploy AI models and production-ready APIs.
-- Building end-to-end projects with measurable results.
+Featured Projects
 
-## Contact
+PetroTwin
 
-GitHub: [@dmins06](https://github.com/dmins06)
+Vietnamese fuel price forecasting system using international energy market data and domestic regulatory factors.
 
-Interested in AI, Data Science, and software engineering projects.
+Focus: Data Collection · Data Processing · Time Series Forecasting · Machine Learning.
+
+Nexamin
+
+AI-powered learning platform designed to support personalized learning and exam preparation.
+
+Focus: Full-stack Development · AI Integration · Data Management.
+
+Connect
+
+- Portfolio: https://my-portfolio-six-blond-38.vercel.app
+- GitHub: https://github.com/dmins06
+
+---
+
+<p align="center">
+  <i>Turning Data into Meaningful Insights.</i>
+  <br/>
+  DIMINN. © 2026
+</p>
