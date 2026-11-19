@@ -124,17 +124,25 @@ Technologies:
 
 🛠 Technology Stack
 
-<div align="center">Languages
+<div align="center">PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,sql,typescript,javascript&theme=light" />Data Science & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=light" /><br/>DATA SCIENCE & MACHINE LEARNING
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=light" />"NumPy" · "Pandas" · "Matplotlib" · "Scikit-learn" · "XGBoost" · "SARIMAX"
+<img src="https://skillicons.dev/icons?i=pytorch&theme=light" /><p>
+  <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/SARIMAX-111111?style=flat-square" />
+</p><br/>DATA ENGINEERING & DATABASE
 
-Data Engineering & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mysql,docker,linux,git,github&theme=light" />"SQL" · "ETL" · "Data Pipelines" · "Data Quality" · "Cloud"
-
-Application Development
+<img src="https://skillicons.dev/icons?i=mysql,docker,linux,git,github&theme=light" /><p>
+  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Pipelines-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Quality-111111?style=flat-square" />
+</p><br/>APPLICATION DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=react,vite,fastapi&theme=light" /></div>---
 
