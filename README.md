@@ -126,7 +126,7 @@ Technologies:
 
 <div align="center">PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=light" /><br/>DATA SCIENCE & MACHINE LEARNING
+<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript&theme=light" /><br/>DATA SCIENCE & MACHINE LEARNING
 
 <img src="https://skillicons.dev/icons?i=pytorch&theme=light" /><p>
   <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white" />
