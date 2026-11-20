@@ -1,16 +1,35 @@
-<div align="center"><!-- CLICKABLE HERO BANNER --><a href="https://my-portfolio-six-blond-38.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=DIMINN.&fontSize=68&fontColor=ffffff&fontAlignY=43&desc=DATA%20SCIENCE%20%7C%20DATA%20ENGINEERING%20%7C%20AI&descSize=14&descAlignY=72&animation=fadeIn" width="100%" alt="DIMINN. — Click to visit portfolio"/>
-</a><a href="https://my-portfolio-six-blond-38.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<div align="center">
+
+<!-- ANIMATED BLACK GALAXY HERO -->
+<a href="https://my-portfolio-six-blond-38.vercel.app">
+  <img
+    src="assets/galaxy-header.svg"
+    width="100%"
+    alt="DIMINN Animated Black Galaxy"
+  />
+</a>
+
+<a href="https://my-portfolio-six-blond-38.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/dmins06">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:dminondastr06@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-</a><br/><br/>
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=650&lines=Turning+Data+into+Meaningful+Insights.;Engineering+Reliable+Data+Pipelines.;Exploring+Machine+Learning+%26+AI.;Build.+Analyze.+Engineer." alt="Typing animation"/><br/><img src="https://komarev.com/ghpvc/?username=dmins06&style=flat-square&color=111111&label=PROFILE+VIEWS"/></div>---
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=650&lines=Turning+Data+into+Meaningful+Insights.;Engineering+Reliable+Data+Pipelines.;Exploring+Machine+Learning+%26+AI.;Build.+Analyze.+Engineer." alt="Typing animation"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=dmins06&style=flat-square&color=111111&label=PROFILE+VIEWS"/>
+
+</div>
+
 
 👨‍💻 About Me
 
