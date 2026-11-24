@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <!-- ANIMATED BLACK GALAXY HERO -->
 <a href="https://my-portfolio-six-blond-38.vercel.app">
@@ -94,7 +94,9 @@ My current focus:
 
 </td>
 </tr>
-</table>---
+</table>
+
+---
 
 🚀 Featured Projects
 
@@ -102,7 +104,9 @@ My current focus:
 
 <a href="https://github.com/dmins06/PetroTwin">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>A data-driven system for forecasting Vietnamese domestic fuel prices using international energy market data and domestic operating factors.
+</a>
+
+A data-driven system for forecasting Vietnamese domestic fuel prices using international energy market data and domestic operating factors.
 
 Key areas:
 
@@ -126,7 +130,9 @@ Technologies:
 
 <a href="https://nexamin.id.vn">
   <img src="https://img.shields.io/badge/VISIT%20PROJECT-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>An AI-powered learning platform designed to support personalized learning, course management and exam preparation.
+</a>
+
+An AI-powered learning platform designed to support personalized learning, course management and exam preparation.
 
 Key areas:
 
@@ -142,6 +148,37 @@ Technologies:
   <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+03. Otter Assistant — AI-Powered Academic Assistant
+
+<a href="https://github.com/dmins06/OtterAssistant">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+An AI-powered academic assistant designed to help university students manage schedules, assignments and academic activities through intelligent conversations, automated reminders and Telegram integration.
+
+Key areas:
+
+- Designed and developed a tool-based AI agent architecture integrating Google Gemini API for context-aware academic interactions.
+- Built RESTful backend APIs using FastAPI and organized application services into modular components.
+- Implemented MySQL-based data persistence and Redis integration for caching, rate limiting and distributed coordination.
+- Integrated Telegram Bot API with account linking and webhook-based message handling.
+- Developed background scheduling workflows using APScheduler for automated academic notifications.
+- Implemented authentication, sensitive credential encryption and automated backend testing.
+
+Technologies:
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-111111?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-111111?style=flat-square&logo=telegram&logoColor=white" />
 </p>
 
 🛠 Technology Stack
@@ -168,7 +205,9 @@ Technologies:
   <img src="https://img.shields.io/badge/Data%20Quality-111111?style=flat-square"/>
 </p><br/>APPLICATION DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=react,vite,fastapi&theme=light" alt="Application development"/></div>---
+<img src="https://skillicons.dev/icons?i=react,vite,fastapi&theme=light" alt="Application development"/></div>
+
+---
 
 📊 GitHub Analytics
 
@@ -184,7 +223,9 @@ Technologies:
 
 <a href="https://github.com/dmins06">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dmins06&bg_color=ffffff&color=333333&line=555555&point=111111&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</a></div>---
+</a></div>
+
+---
 
 🎓 Education & Journey
 
